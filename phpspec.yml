@@ -1,0 +1,4 @@
+suites:
+  clickbook:
+    namespace: Clickbooth
+    spec_prefix: clickbooth_spec
